@@ -42,7 +42,7 @@
     <td>✔️</td><td>✔️</td><td>✔️</td><td>❌</td></tr>
 <!-- Spicin -->
 <tr><td><a href="https://github.com/Ronyleno/2023-CS-Python">Studenichin Egor</a</td>
-    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>✔️</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/lerochkagucci/2023-CS-Python">Talonova Valerya</a</td>
     <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/uzilova123/2023-CS-Python">Uzilova Alina</a</td>
